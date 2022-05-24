@@ -4,7 +4,7 @@ School Project
 Total grade: 8,5/10 
 
 ```
-**Scoring percentages  per Phase**
+Scoring percentages per Phase
  1st phase 5%
  2nd phase 10%
  3rd phase 40%
