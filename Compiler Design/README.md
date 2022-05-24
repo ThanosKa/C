@@ -4,6 +4,7 @@ School Project
 Total grade: 8,5/10 
 
 Alpha language is a language with grammar that our professor created from my University.
+The Grammar of Alpha language is at */phase2/parser.output*
 
 This group-project was implemented by me and 2   other students.
 
@@ -96,3 +97,23 @@ compiler |  alpha  (vm)  | alpha executable |---------------|                 | 
 
 ```
 
+
+
+*Lib Functions*
+
+```
+ print
+ input
+ objectmemberkeys
+ objecttotalmembers
+ objectcopy
+ totalarguments
+ argument
+ typeof
+ strtonum
+ sqrt
+ cos
+ sin
+ ```
+ 
+ 
